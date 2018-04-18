@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=view\ sim
+comment0.target=Colony(ColonyView,\ Simulation)
+comment1.params=nodeNum\ x\ y
+comment1.target=void\ addColonyNode(ColonyNode,\ int,\ int)
+comment2.params=
+comment2.target=ColonyView\ getView()
+comment3.params=curTurn
+comment3.target=void\ nextTurn(int)
+comment4.params=
+comment4.target=void\ startColony()
+comment5.params=node
+comment5.target=java.util.ArrayList\ getAdjacentNodes(ColonyNode)
+numComments=6

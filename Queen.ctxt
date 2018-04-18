@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=node
+comment0.target=Queen(ColonyNode)
+comment1.params=
+comment1.target=Queen()
+comment2.params=ant
+comment2.target=void\ hatch(Ant)
+comment3.params=present
+comment3.target=void\ nextTurn(int)
+comment4.params=
+comment4.target=void\ inviteBala()
+comment5.params=
+comment5.target=void\ eat()
+comment6.params=
+comment6.target=void\ death()
+numComments=7

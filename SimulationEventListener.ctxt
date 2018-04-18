@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=simEvent
+comment0.target=void\ simulationEventOccurred(SimulationEvent)
+comment0.text=\n\trespond\ to\ a\ SimulationEvent\n
+numComments=1

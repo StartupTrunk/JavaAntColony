@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=source\ eventType
+comment0.target=SimulationEvent(java.lang.Object,\ int)
+comment0.text=\n\tcreate\ a\ new\ SimulationEvent\n\n\t@param\tsource\t\tObject\ on\ which\ event\ occurred\n\t@param\teventType\ttype\ of\ event\n
+comment1.params=
+comment1.target=int\ getEventType()
+comment1.text=\n\treturn\ the\ type\ of\ event\ this\ is\n\n\t@return\ta\ valid\ SimulationEvent\ type\n
+numComments=2

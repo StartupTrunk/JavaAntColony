@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=AntSimGUI()
+comment0.text=\n\tcreate\ a\ new\ AntSimGUI\n
+comment1.params=e
+comment1.target=void\ windowClosing(java.awt.event.WindowEvent)
+comment2.params=
+comment2.target=void\ resizeGUI()
+comment2.text=\n\tset\ window\ size\ based\ on\ user's\ screen\ settings\n\n\tinitial\ size\ will\ be\ smaller\ than\ the\ dimensions\ of\ the\ user's\ screen\n\tonce\ sized,\ the\ window\ is\ maximized\ to\ fill\ the\ screen\n
+comment3.params=time
+comment3.target=void\ setTime(java.lang.String)
+comment3.text=\n\tset\ the\ current\ simulation\ time\n\n\t@param\ttime\t\tString\ indicating\ simulation\ time\ in\ terms\ of\ days\ and\ turns\n
+comment4.params=eventType
+comment4.target=void\ fireSimulationEvent(int)
+comment4.text=\n\tfire\ a\ simulation\ event\n\n\t@param\teventType\t\tthe\ type\ of\ event\ that\ occurred\ (see\ the\n\t\t\t\t\t\t\tSimulationEvent\ class\ for\ allowable\ types)\n
+numComments=5

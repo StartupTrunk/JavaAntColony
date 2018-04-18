@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=colonyHeight\ colonyWidth
+comment0.target=ColonyView(int,\ int)
+comment0.text=\n\tcreate\ a\ new\ ColonyView\ with\ the\ specified\ height\ and\ width\n\n\theight\ is\ measured\ as\ the\ number\ of\ nodes\ along\ the\ Y\ axis\n\twidth\ is\ measured\ as\ the\ number\ of\ nodes\ along\ the\ X\ axis\n\n\t@param\tcolonyHeight\t\t\theight\ of\ colony\ in\ nodes\n\t@param\tcolonyWidth\t\t\t\twidth\ of\ colony\ in\ nodes\n
+comment1.params=nodeView\ x\ y
+comment1.target=void\ addColonyNodeView(ColonyNodeView,\ int,\ int)
+comment1.text=\n\tadd\ the\ specifed\ ColonyNode\ to\ this\ view\n\n\tuse\ this\ method\ to\ add\ individual\ colony\ node\ views\ to\ this\ view\n\n\tsince\ the\ colony\ is\ represented\ as\ a\ two-dimensional\ grid,\ each\ node\n\tview\ can\ be\ represented\ by\ an\ (x,y),\ or\ (row,\ column)\ coordinate\ pair\n\n\t@param\tnodeView\t\tColonyNodeView\ to\ be\ added\ to\ colony\ view\n\t@param\tx\t\t\t\tx\ coordinate\ of\ node\ view\ in\ colony\ grid\n\t@param\ty\t\t\t\ty\ coordinate\ of\ node\ view\ in\ colony\ grid\n
+numComments=2

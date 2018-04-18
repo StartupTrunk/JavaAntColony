@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=node
+comment0.target=Ant(ColonyNode)
+comment1.params=
+comment1.target=Ant()
+comment2.params=ID
+comment2.target=void\ setID(int)
+comment3.params=present
+comment3.target=void\ nextTurn(int)
+comment4.params=newLocation
+comment4.target=void\ move(ColonyNode)
+comment5.params=present
+comment5.target=void\ trackAge(int)
+comment6.params=
+comment6.target=void\ death()
+numComments=7

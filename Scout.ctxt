@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=node
+comment0.target=Scout(ColonyNode)
+comment1.params=
+comment1.target=Scout()
+comment2.params=present
+comment2.target=void\ nextTurn(int)
+comment3.params=node
+comment3.target=void\ move(ColonyNode)
+numComments=4

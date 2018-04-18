@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=node
+comment0.target=Soldier(ColonyNode)
+comment1.params=
+comment1.target=Soldier()
+comment2.params=node
+comment2.target=void\ move(ColonyNode)
+comment3.params=present
+comment3.target=void\ nextTurn(int)
+comment4.params=
+comment4.target=void\ fight()
+numComments=5

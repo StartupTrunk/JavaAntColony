@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=node
+comment0.target=Bala(ColonyNode)
+comment1.params=
+comment1.target=Bala()
+comment2.params=present
+comment2.target=void\ nextTurn(int)
+comment3.params=node
+comment3.target=void\ move(ColonyNode)
+comment4.params=
+comment4.target=void\ fight()
+numComments=5
